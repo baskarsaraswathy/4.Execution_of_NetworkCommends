@@ -27,7 +27,6 @@ This commands includes
 <BR>
 
 ## Commands
-
 # PING
 ## Output
 ![PING](https://github.com/user-attachments/assets/b548d336-aff7-42dc-a63d-ff8c2ecaab12)
@@ -47,4 +46,3 @@ This commands includes
 
 ## Result
 Thus Execution of Network commands was successfully Performed and executed.
-
